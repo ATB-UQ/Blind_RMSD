@@ -1,7 +1,4 @@
 *.pyc
-Vector.py
-biopython
-charnley_rmsd
 testing
 .DS_Store
 .project
